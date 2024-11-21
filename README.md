@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+This is an Angular-based project designed to perform CRUD (Create, Read, Update, and Delete) operations. It provides an intuitive user interface to manage data effectively, ensuring seamless integration with a back-end API. The project demonstrates the use of Angular features such as components, services, and two-way data binding. Additionally, it includes validations, responsive design, and error handling for a robust user experience.
+
