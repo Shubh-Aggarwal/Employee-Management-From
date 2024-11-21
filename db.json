@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Nice post!",
+      "postId": 1
+    }
+  ],
+  "employees": [
+    {
+      "id": "70e1",
+      "firstName": "shubh",
+      "lastName": "aggarwal",
+      "email": "shubh@gmail.com",
+      "dob": "2008-04-09T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduation",
+      "company": "ACDD",
+      "experience": 2,
+      "package": 20
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Employee",
+      "email": "test@workmail.com",
+      "dob": "1934-12-31T18:30:00.000Z",
+      "gender": "Male",
+      "education": "Graduation",
+      "company": "JMG",
+      "experience": 7,
+      "package": 800000,
+      "id": "484a"
+    }
+  ]
+}
